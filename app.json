@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "AplikasiMahasiswa",
+    "slug": "Amelia",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.liamel.aplikasimahasiswa"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "172dbed4-f233-4586-a437-f5ed45b15ed9"
+      }
+    },
+    "owner": "liamel",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
